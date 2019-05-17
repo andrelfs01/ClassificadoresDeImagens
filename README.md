@@ -2,6 +2,8 @@
 Modelos de classificação de imagens de estruturas
 
 Usando Microsoft CNTK
+ - Azure Machine Learning Workbench (R.I.P.)  
+ - CNN ResNet
 
 # Modelo por volume
 Classifica de acordo com a quantidade de cabos instalados
